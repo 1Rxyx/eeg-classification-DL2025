@@ -1,0 +1,13 @@
+# データと仮想環境
+data/
+venv/
+__pycache__/
+
+# 学習済みモデルと成果物
+*.pt
+*.npy
+*.zip
+tensorboard/
+
+# VSCode設定
+.vscode/
